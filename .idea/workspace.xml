@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cc8f32b-22c4-4799-bd4e-bbf214ca85c8" name="Changes" comment="task9 (Урок №6. Циклы while и for. Задание 2)">
-      <change afterPath="$PROJECT_DIR$/task10.py" afterDir="false" />
+    <list default="true" id="4cc8f32b-22c4-4799-bd4e-bbf214ca85c8" name="Changes" comment="task10 (Урок №6. Циклы while и for. Задание 3)">
+      <change afterPath="$PROJECT_DIR$/task11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     "Python.main.executor": "Run",
     "Python.task1.executor": "Run",
     "Python.task10.executor": "Run",
+    "Python.task11.executor": "Run",
     "Python.task2.executor": "Run",
     "Python.task3.executor": "Run",
     "Python.task4.executor": "Run",
@@ -203,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762792318760</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="task10 (Урок №6. Циклы while и for. Задание 3)">
+      <option name="closed" value="true" />
+      <created>1762793176024</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1762793176024</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +237,7 @@
     <MESSAGE value="task7" />
     <MESSAGE value="task8" />
     <MESSAGE value="task9 (Урок №6. Циклы while и for. Задание 2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="task9 (Урок №6. Циклы while и for. Задание 2)" />
+    <MESSAGE value="task10 (Урок №6. Циклы while и for. Задание 3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="task10 (Урок №6. Циклы while и for. Задание 3)" />
   </component>
 </project>
