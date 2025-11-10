@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cc8f32b-22c4-4799-bd4e-bbf214ca85c8" name="Changes" comment="task11 (Урок  №7. Строки. Задание 1)">
-      <change afterPath="$PROJECT_DIR$/task12.py" afterDir="false" />
+    <list default="true" id="4cc8f32b-22c4-4799-bd4e-bbf214ca85c8" name="Changes" comment="task12 (Урок  №7. Строки. Задание 2)">
+      <change afterPath="$PROJECT_DIR$/task13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,7 @@
     "Python.task10.executor": "Run",
     "Python.task11.executor": "Run",
     "Python.task12.executor": "Run",
+    "Python.task13.executor": "Run",
     "Python.task2.executor": "Run",
     "Python.task3.executor": "Run",
     "Python.task4.executor": "Run",
@@ -221,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762796254465</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="task12 (Урок  №7. Строки. Задание 2)">
+      <option name="closed" value="true" />
+      <created>1762796763391</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1762796763391</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,6 +257,7 @@
     <MESSAGE value="task9 (Урок №6. Циклы while и for. Задание 2)" />
     <MESSAGE value="task10 (Урок №6. Циклы while и for. Задание 3)" />
     <MESSAGE value="task11 (Урок  №7. Строки. Задание 1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="task11 (Урок  №7. Строки. Задание 1)" />
+    <MESSAGE value="task12 (Урок  №7. Строки. Задание 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="task12 (Урок  №7. Строки. Задание 2)" />
   </component>
 </project>
