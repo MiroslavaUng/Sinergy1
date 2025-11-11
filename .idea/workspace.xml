@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cc8f32b-22c4-4799-bd4e-bbf214ca85c8" name="Changes" comment="task14 (№8. Списки. Задание 2)">
-      <change afterPath="$PROJECT_DIR$/task15.py" afterDir="false" />
+    <list default="true" id="4cc8f32b-22c4-4799-bd4e-bbf214ca85c8" name="Changes" comment="task15 (№8. Списки. Задание 3)">
+      <change afterPath="$PROJECT_DIR$/task16.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
     "Python.task13.executor": "Run",
     "Python.task14.executor": "Run",
     "Python.task15.executor": "Run",
+    "Python.task16.executor": "Run",
     "Python.task2.executor": "Run",
     "Python.task3.executor": "Run",
     "Python.task4.executor": "Run",
@@ -248,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762801413768</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="task15 (№8. Списки. Задание 3)">
+      <option name="closed" value="true" />
+      <created>1762804842864</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1762804842864</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,6 +287,7 @@
     <MESSAGE value="task12 (Урок  №7. Строки. Задание 2)" />
     <MESSAGE value="task13 (№8. Списки. Задание 1)" />
     <MESSAGE value="task14 (№8. Списки. Задание 2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="task14 (№8. Списки. Задание 2)" />
+    <MESSAGE value="task15 (№8. Списки. Задание 3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="task15 (№8. Списки. Задание 3)" />
   </component>
 </project>
