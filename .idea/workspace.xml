@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cc8f32b-22c4-4799-bd4e-bbf214ca85c8" name="Changes" comment="task17 (Урок №9 Множества. Задание 2)">
-      <change afterPath="$PROJECT_DIR$/task18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     "Python.task16.executor": "Run",
     "Python.task17.executor": "Run",
     "Python.task18.executor": "Run",
+    "Python.task19.executor": "Run",
     "Python.task2.executor": "Run",
     "Python.task3.executor": "Run",
     "Python.task4.executor": "Run",
