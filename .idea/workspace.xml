@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cc8f32b-22c4-4799-bd4e-bbf214ca85c8" name="Changes" comment="task22 (Урок №11. Функции. Задание 2)">
-      <change afterPath="$PROJECT_DIR$/task23.py" afterDir="false" />
+    <list default="true" id="4cc8f32b-22c4-4799-bd4e-bbf214ca85c8" name="Changes" comment="task23 (Урок №13. Двумерные списки. Задание 1)">
+      <change afterPath="$PROJECT_DIR$/task24.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     "Python.task21.executor": "Run",
     "Python.task22.executor": "Run",
     "Python.task23.executor": "Run",
+    "Python.task24.executor": "Run",
     "Python.task3.executor": "Run",
     "Python.task4.executor": "Run",
     "Python.task5.executor": "Run",
@@ -321,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763056952223</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="task23 (Урок №13. Двумерные списки. Задание 1)">
+      <option name="closed" value="true" />
+      <created>1763071233956</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1763071233956</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,6 +367,7 @@
     <MESSAGE value="task20 (Урок №10. Словари. Задание 2)" />
     <MESSAGE value="task21 (Урок №11. Функции. Задание 1)" />
     <MESSAGE value="task22 (Урок №11. Функции. Задание 2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="task22 (Урок №11. Функции. Задание 2)" />
+    <MESSAGE value="task23 (Урок №13. Двумерные списки. Задание 1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="task23 (Урок №13. Двумерные списки. Задание 1)" />
   </component>
 </project>
