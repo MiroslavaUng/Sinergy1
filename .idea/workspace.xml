@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cc8f32b-22c4-4799-bd4e-bbf214ca85c8" name="Changes" comment="task25 (Урок №15. ООП. Задание 1)">
-      <change afterPath="$PROJECT_DIR$/task26.py" afterDir="false" />
+    <list default="true" id="4cc8f32b-22c4-4799-bd4e-bbf214ca85c8" name="Changes" comment="task26 (Урок №15. ООП. Задание 2)">
+      <change afterPath="$PROJECT_DIR$/task27.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.task24.executor": "Run",
     "Python.task25.executor": "Run",
     "Python.task26.executor": "Run",
+    "Python.task27.executor": "Run",
     "Python.task3.executor": "Run",
     "Python.task4.executor": "Run",
     "Python.task5.executor": "Run",
@@ -348,7 +349,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763121051506</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="task26 (Урок №15. ООП. Задание 2)">
+      <option name="closed" value="true" />
+      <created>1763122451018</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1763122451018</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -363,7 +372,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1ая версия программы" />
     <MESSAGE value="v2" />
     <MESSAGE value="task2" />
     <MESSAGE value="task3" />
@@ -388,6 +396,7 @@
     <MESSAGE value="task23 (Урок №13. Двумерные списки. Задание 1)" />
     <MESSAGE value="task24 (Урок №14. Рекурсия. Задание 1)" />
     <MESSAGE value="task25 (Урок №15. ООП. Задание 1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="task25 (Урок №15. ООП. Задание 1)" />
+    <MESSAGE value="task26 (Урок №15. ООП. Задание 2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="task26 (Урок №15. ООП. Задание 2)" />
   </component>
 </project>
